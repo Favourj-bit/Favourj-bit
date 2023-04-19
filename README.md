@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=I'm+a+Data+Scientist,+technical+writer,+upcoming+AI+engineer;"></a>
 </p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/FavourJhayi?color=1DA1F2&logo=twitter&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/FavourJhay?color=1DA1F2&logo=twitter&style=for-the-badge)
 ![Blog URL](https://img.shields.io/twitter/url?color=red&label=BLOG&logo=hashnode&style=for-the-badge&url=https%3A%2F%2Fjamesfav.hashnode.dev%2F)
 ![LinkedIn URL](https://img.shields.io/twitter/url?color=0077B5&label=LinkedIn&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffavour-james-1868b61b9)
 
