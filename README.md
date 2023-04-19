@@ -9,6 +9,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/FavourJhay?color=1DA1F2&logo=twitter&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favour-james-1868b61b9/)
 ![Blog URL](https://img.shields.io/twitter/url?color=red&label=BLOG&logo=hashnode&style=for-the-badge&url=https%3A%2F%2Fjamesfav.hashnode.dev%2F)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favour.ujames196@gmail.com)
 
 
 
