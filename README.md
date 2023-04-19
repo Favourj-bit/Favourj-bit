@@ -20,3 +20,7 @@
 - 👯 I am looking to collaborate on ML and AI projects particularly those relating to the health sector
 - ⚡ Fun fact: I have some interest in robotics
 - 😄 Pronouns: She/Her
+
+## :fire: Github Stats
+
+![Monsurat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Favourj-bit&show_icons=true&theme=dark)
