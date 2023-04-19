@@ -19,7 +19,7 @@
 - :nerd_face: I am pursuing a career in AI Engineering 
 - ⚡ I am interested in Data Science and Machine Learning roles
 - 👯 I am looking to collaborate on ML and AI projects particularly those relating to the health sector
-- Fun fact: I have some interest in robotics :robot:
+- :robot: Fun fact: I have some interest in robotics 
 - 😄 Pronouns: She/Her
 
 
