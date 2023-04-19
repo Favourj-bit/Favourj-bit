@@ -7,8 +7,9 @@
 </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/FavourJhay?color=1DA1F2&logo=twitter&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/favour-james-1868b61b9/)
 ![Blog URL](https://img.shields.io/twitter/url?color=red&label=BLOG&logo=hashnode&style=for-the-badge&url=https%3A%2F%2Fjamesfav.hashnode.dev%2F)
-![LinkedIn URL](https://img.shields.io/twitter/url?color=0077B5&label=LinkedIn&logo=Linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffavour-james-1868b61b9)
+
 
 
 <h2>⚡️ About Me</h2>
